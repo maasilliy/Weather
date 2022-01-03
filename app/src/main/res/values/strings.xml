@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="text_no_connection">Нет интернета</string>
+
+    <string-array name="cities">
+        <item>Киев</item>
+        <item>Кривой Рог</item>
+        <item>Харьков</item>
+        <item>Одесса</item>
+        <item>Днепр</item>
+        <item>Донецк</item>
+        <item>Запорожье</item>
+        <item>Львов</item>
+        <item>Винница</item>
+        <item>Херсон</item>
+        <item>Чернигов</item>
+        <item>Полтава</item>
+        <item>Черкассы</item>
+        <item>Хмельницкий</item>
+        <item>Черновцы</item>
+        <item>Житомир</item>
+        <item>Сумы</item>
+        <item>Ровно</item>
+        <item>Ивано-Франковск</item>
+        <item>Каменское</item>
+        <item>Кропивницкий</item>
+        <item>Тернополь</item>
+        <item>Кременчуг</item>
+        <item>Луцк</item>
+        <item>Краматорск</item>
+        <item>Мелитополь</item>
+        <item>Ужгород</item>
+        <item>Бердянск</item>
+        <item>Никополь</item>
+        <item>Славянск</item>
+        <item>Бровары</item>
+        <item>Павлоград</item>
+        <item>Луганск</item>
+    </string-array>
+</resources>
